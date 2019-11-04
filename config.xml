@@ -11,5 +11,5 @@
   <content src="index.html" />
   <platform name="android">
     <icon src="res/2018091760901973.jpg" />
-    
+    </platform>
 </widget>
